@@ -2,10 +2,10 @@
 
 // 1. Data structure for the schedule
 const scheduleData = [
-    { time: "09:00 - 10:30", mon: "Math", tue: "History", wed: "Math", thu: "History", fri: "Lab" },
-    { time: "10:45 - 12:15", mon: "Physics", tue: "English", wed: "Physics", thu: "English", fri: "Library" },
-    { time: "13:00 - 14:30", mon: "CS101", tue: "Art", wed: "CS101", thu: "Art", fri: "Study Hall" },
-    { time: "14:45 - 16:15", mon: "Gym", tue: "Free", wed: "Gym", thu: "Club", fri: "Free" }
+    { time: "08:05 - 09:47", mon: "Math", tue: "History", wed: "Math", thu: "History", fri: "Lab" },
+    { time: "10:05 - 11:47", mon: "Physics", tue: "English", wed: "Physics", thu: "English", fri: "Library" },
+    { time: "12:45 - 14:27", mon: "CS101", tue: "Art", wed: "CS101", thu: "Art", fri: "Study Hall" },
+    { time: "14:40 - 16:35", mon: "Gym", tue: "Free", wed: "Gym", thu: "Club", fri: "Free" }
 ];
 
 // 2. Function to render the schedule
